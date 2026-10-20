@@ -1,0 +1,15 @@
+{
+	"name": "Productadfprojadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "indiasouthcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "758647d5-945c-4523-8194-2143305ea00b",
+		"tenantId": "429ee58c-0714-4d59-b5f7-eba6428b60b9"
+	}
+}
